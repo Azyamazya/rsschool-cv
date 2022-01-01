@@ -50,4 +50,11 @@
 | __Faculty__ | __Engineering__ |
 | __Profession__ | __Food engineer__
 
+## Additional Information
+|Languages|Kyrgyz	native, Russian	freely, Turkish	freely, English	intermediate |
+|-|-|
+| __Computer skills__ | __Microsoft Office, Google Docs, Google sheets, e-mail.__ |
+| __Driver's license__ | __B, C.__ |
+| __Other information__ | __Without bad habits, initiative, independent, responsible, communicable, quick and easy learning__
+
 
