@@ -1,4 +1,6 @@
 # Bocholoev Zhandos Shekerbekovich
+## Photo
+![Image](https://www.logolynx.com/images/logolynx/f0/f0aa5e04c38fc898ece87d0d4724986d.jpeg)
 ## Personal information
 
 |Place of residendce |Bishkek |
@@ -7,7 +9,6 @@
 | __Marital status__ | __Married__ |
 | __Phone number__ | __+996 (500) 666 881__ |
 | __E-mail__ | __dr.princip@gmail.com__ |
-
 
 
 ## Experience
@@ -49,6 +50,14 @@
 | __End__ | __BS, June 2016. MS, June 2019__ |
 | __Faculty__ | __Engineering__ |
 | __Profession__ | __Food engineer__
+
+## Code example 
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
 
 ## Additional Information
 |Languages|Kyrgyz	native, Russian	freely, Turkish	freely, English	intermediate |
