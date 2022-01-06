@@ -60,7 +60,7 @@ function multiply(a, b){
 
 
 ## Additional Information
-|Languages|Kyrgyz	native, Russian	freely, Turkish	freely, English	intermediate |
+|Languages | Kyrgyz	native, Russian	freely, Turkish	freely, English	intermediate |
 |-|-|
 | __Computer skills__ | __Microsoft Office, Google Docs, Google sheets, e-mail.__ |
 | __Driver's license__ | __B, C.__ |
