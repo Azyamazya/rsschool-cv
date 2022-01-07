@@ -30,15 +30,15 @@ display: flex;
     font-family: 'Montserrat', sans-serif;
 
       font-size: 48px; 
-      color: black;
-  background-color: rgba(37, 20, 3, 0.5);
+      color: rgb(135, 166, 207);
+  background-color:none;
 }
   
   .main {
       font-size: 48px;
       font-family: 'Montserrat', sans-serif;
-      color: thistle;
-      list-style: none; 
+      color: rgb(135, 166, 207);
+    
   }
   .main-container {
     display: flex;
@@ -54,7 +54,7 @@ display: flex;
  
   .section {
       font-size: 28px;
-      color: tomato;
+      color: rgb(94, 117, 218);
       width: 50%; 
       padding: 5px;
       margin: 10px;
@@ -63,17 +63,18 @@ display: flex;
   .sub_section {
     font-size: 20px;
       color: white;
-      padding: 0;
+      padding: 15px;
       margin: 0;
       text-align: left;      
       display: flex;
+      line-height: 30px;
 
       }
 
   .footer{ 
     font-size: 48px; 
     font-family: 'Montserrat', sans-serif;
-    color: rgba(47, 109, 245, 0.897);
+    color: rgba(93, 245, 47, 0.897);
     background-color: rgba(37, 20, 3, 0.5);
   }
   
@@ -91,9 +92,10 @@ display: flex;
   .nav-link {    
     padding: 0 20px;
     line-height: 50px;
-    color: red; /*links color*/
+    color: rgb(202, 219, 45); /*links color*/
     text-decoration: none;
     font-size: 22px; 
+    font-weight: 900;
     transition: .3s;
     text-transform: uppercase;
       }
@@ -131,11 +133,33 @@ display: flex;
           justify-content: space-around;
               }
 
-              .fa-map-marker-alt {
+              .fa-map-marker-alt, 
+              .fa-phone-square-alt,
+              .fa-envelope-open-text,
+              .fa-telegram,
+              .fa-html5,
+              .fa-css3-alt,
+              .fa-info-circle,
+              .fa-laptop-code,
+              .fa-download {
                 font-size: 40px;
                 color: rgb(128, 201, 32) ;
-                padding: 10px;  
-
-                
+                padding: 10px;
+                margin: 0;  
+                align-self: baseline;
+          
               }
+
+              ul {
+                list-style: none;
+              }
+
+.code {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgb(34, 199, 48);
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+}
            
