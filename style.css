@@ -1,1 +1,171 @@
-##style.css
+body {
+    background-image: url(assets/img/blackboard.jpg ) ; /* Путь к фоновому изображению */
+    background-repeat: repeat;
+    background-color: #c7b39b; /* Цвет фона */
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+
+  }
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+      
+    }
+  }
+
+  .content {
+    max-width: 500px;
+    margin: auto;
+  }
+* {
+    box-sizing: border-box;   
+}
+
+  
+  .header {
+    font-family: 'Montserrat', sans-serif;
+
+      font-size: 48px; 
+      color: rgb(135, 166, 207);
+  background-color:none;
+}
+  
+  .main {
+      font-size: 48px;
+      font-family: 'Montserrat', sans-serif;
+      color: rgb(135, 166, 207);
+    
+  }
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    margin:0px;
+    margin-bottom: 0px;
+  
+}
+ 
+  .section {
+      font-size: 28px;
+      color: rgb(94, 117, 218);
+      width: 50%; 
+      padding: 5px;
+      margin: 10px;
+      display: c;
+      
+      }
+  .sub_section {
+    font-size: 20px;
+      color: white;
+      padding: 15px;
+      margin: 0;
+      text-align: left;      
+      display: flex;
+      line-height: 30px;
+
+      }
+
+  .footer{ 
+    font-size: 48px; 
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(93, 245, 47, 0.897);
+    background-color: rgba(37, 20, 3, 0.5);
+  }
+  
+  .nav-list {
+    display: flex ;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;   
+ 
+  }
+   
+  html {
+    scroll-behavior: smooth; 
+  }
+  .nav-link {    
+    padding: 0 20px;
+    line-height: 50px;
+    color: rgb(202, 219, 45); /*links color*/
+    text-decoration: none;
+    font-size: 22px; 
+    font-weight: 900;
+    transition: .3s;
+    text-transform: uppercase;
+      }
+  
+   
+      img {
+        border-radius: 50%;
+      }
+      .nav_img {
+        width: 120px;
+        height: 50px;
+    }
+
+      .footer_img_link  {
+        display: flex;
+        justify-content: space-around;
+      
+      }
+      .footer_img_link 
+      a:hover {background-color: transparent}
+      
+      a:hover {
+        background: #5b5978; /* Цвет фона под ссылкой */ 
+        color: #ffe; /* Цвет ссылки*/    
+      }
+
+
+      .footer_github img {
+        width: 150px;
+        height: 75px;}
+
+        .footer_github {
+          
+          display: flex;
+          justify-content: space-around;
+              }
+
+              .fa-map-marker-alt, 
+              .fa-phone-square-alt,
+              .fa-envelope-open-text,
+              .fa-telegram,
+              .fa-html5,
+              .fa-css3-alt,
+              .fa-info-circle,
+              .fa-laptop-code,
+              .fa-download {
+                font-size: 40px;
+                color: rgb(128, 201, 32) ;
+                padding: 10px;
+                margin: 0;  
+                align-self: baseline;
+          
+              }
+
+              ul {
+                list-style: none;
+              }
+
+.code {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: rgb(34, 199, 48);
+  padding-top: 0px;
+  padding-bottom: 0px;
+
+}
+           
