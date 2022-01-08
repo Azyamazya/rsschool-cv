@@ -45,7 +45,7 @@
 | __Responsibilities__ | __To accompany tourists and to provide information to them__
 
 ## Education
-|University|Kyrgyz – Turksih “Manas” University |
+|University | Kyrgyz – Turksih “Manas” University |
 |-|-|
 | __End__ | __BS, June 2016. MS, June 2019__ |
 | __Faculty__ | __Engineering__ |
